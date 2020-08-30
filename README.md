@@ -1,4 +1,4 @@
-# Sushi_Game
+# Sushi Game
 
 A complete, functional sushi restaurant game developed for the final project of Object-oriented Programming class. 
 
